@@ -1,0 +1,11 @@
+# Application
+name: MageKey GitHub
+
+# Conversion
+markdown: kramdown
+
+# Outputting
+verbose:  true
+
+liquid:
+  error_mode: warn
