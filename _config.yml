@@ -4,8 +4,13 @@ name: MageKey GitHub
 # Conversion
 markdown: kramdown
 
+# Collections
+collections:
+  extensions:
+    output:   true
+
 # Outputting
 verbose:  true
 
 liquid:
-  error_mode: warn
+  error_mode: strict

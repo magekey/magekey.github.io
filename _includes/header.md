@@ -11,7 +11,9 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li><a href="/extensions.html">Extensions</a></li>
+                {% for item in site.data.menu %}
+                <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                {% endfor %}
             </ul>
         </div>
     </div>
