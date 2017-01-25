@@ -15,12 +15,18 @@
     {% include header.md %}
 
     <div class="container">
+
+    <ol class="breadcrumb">
+        <li><a href="/">Home</a></li>
+        <li><a href="/extensions">Extensions</a></li>
+        <li class="active">{{ page.breadcrumb }}</li>
+    </ol>
+
     {{ content }}
     </div>
 
     <!-- BEGIN SCRIPT -->
     {% include script_default.md %}
-    <script src="/js/extension.js"></script>
     {% include script_custom.md %}
     <!-- END SCRIPT-->
 </body>

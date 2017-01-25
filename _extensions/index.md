@@ -1,6 +1,7 @@
 ---
 layout: extensions
 title: Extensions / MageKey GitHub
+breadcrumb: Extensions
 ---
 <div class="row">
     {% for ext in site.data.extensions %}

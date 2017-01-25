@@ -1,10 +1,8 @@
 ---
 layout: extension
-title: Extensions / MageKey GitHub
+title: Promotion Banner / Extensions / MageKey GitHub
+breadcrumb: Promotion Banner
 ---
 {% assign item = site.data.extensions.promotion_banner %}
-{% assign breadcrumb = "Test:one|two|three" | split: "|" %}
-{{breadcrumb}}
-{% include breadcrumb.md %}
 
 {% include card.md %}
