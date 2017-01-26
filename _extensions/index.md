@@ -7,7 +7,7 @@ breadcrumb: Extensions
     {% for ext in site.data.extensions %}
     {% assign item = ext[1] %}
 
-    {% include list.md %}
+    {% include list_item.md %}
 
     {% endfor %}
 </div>
