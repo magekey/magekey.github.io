@@ -81,27 +81,32 @@ body{
   width: 18%;
   margin-right: 1.5%;
   margin-bottom: 1.5%;
+  height: 100px;
+  overflow: hidden;
+  text-align: center;
+  display: inline-block;
 }
 .preview-thumbnail.nav-tabs li img {
   max-width: 100%;
-  display: block;
+  max-height: 100%;
 }
 .preview-thumbnail.nav-tabs li a {
   margin: 0;
   padding: 5px;
   background: none;
   border: 1px solid #b8b8b8;
-  height: 100px;
   border-radius: 0;
-  display: table-cell;
+  display: block;
   vertical-align: middle;
+  height: 100%;
 }
 .preview-thumbnail.nav-tabs li:last-of-type {
   margin-right: 0;
 }
-.preview-thumbnail.nav-tabs li a:hover {
+.preview-thumbnail.nav-tabs li a:hover,
+.preview-thumbnail.nav-tabs li.active a {
   background: none;
-  border: 1px solid #737373;
+  border: 1px solid #ca500d;
 }
 .preview-thumbnail.nav-tabs li a:hover img {
 
