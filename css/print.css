@@ -1,3 +1,83 @@
 /**
  * Copyright © 2017 MageKey. All rights reserved.
  */
+a[href]:after { content: none !important; }
+img[src]:after { content: none !important; }
+body{
+  -webkit-print-color-adjust: exact;
+}
+.pagebreak {
+  page-break-before: always;
+  page-break-inside: avoid;
+  padding-top: 70px;
+}
+.navbar{
+  display: block;
+  background-color: #f1f1f1 !important;
+}
+.navbar .container{
+  background: #f1f1f1 !important;
+}
+.navbar .navbar-header{
+  float: left;
+}
+.navbar .navbar-header .navbar-brand .github{
+  display: none;
+}
+.navbar-brand>span{
+  color: #ca500d !important;
+}
+.navbar .navbar-header .navbar-toggle{
+  display: none;
+}
+.navbar #navbar{
+  display: block;
+  float: none;
+}
+.navbar #navbar .navbar-nav{
+  display: none;
+}
+.navbar #navbar .navbar-nav.navbar-right{
+  display: block;
+  float: right;
+}
+.navbar-default .navbar-nav.navbar-right>li>a{
+  color: #ca500d !important;
+  font-size: 1rem;
+}
+.breadcrumb{
+  display: none;
+}
+.card .gallery .thumbnails a{
+  display: none;
+}
+.card .info .title{
+  text-align: center;
+}
+.card .info .short-desc{
+  display: none;
+}
+.card .info .marketing-url{
+  display: none;
+}
+.details .nav-tabs{
+  border: none;
+}
+.details .nav-tabs>li{
+  display: none;
+}
+.details .nav-tabs>li.active{
+  float: none;
+  text-align: center;
+  display: block;
+}
+.details .nav-tabs>li.active>a,
+.details .nav-tabs>li.active>a:focus,
+.details .nav-tabs>li.active>a:hover{
+  border: none;
+  font-size: 24px;
+  /*border: none;
+  font-size: 30px;
+  */
+}
+

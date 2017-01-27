@@ -6,6 +6,11 @@ body{
   font-family: "Open Sans","Helvetica","Arial",sans-serif;
   line-height: 1.4;
   color: #333;
+  padding-top: 70px;
+}
+
+body .container{
+  margin-bottom:
 }
 
 /* Header */
@@ -39,6 +44,19 @@ body{
 .navbar-brand>span{
   font-size: 1.5rem;
   font-family: fantasy;
+  color: #ca500d;
+}
+.navbar-brand>span.github{
+  color: #5e5e5e;
+}
+.navbar-default .navbar-nav.navbar-right>li>a{
+  border: none;
+  color: #ca500d;
+  font-size: 1rem;
+}
+.navbar-default .navbar-nav.navbar-right>li>a:hover{
+  background: none;
+  border: none;
 }
 
 /* Card */
@@ -82,6 +100,27 @@ body{
 #lg-counter{
   color: #ffffff;
 }
+.lg-toolbar .lg-icon{
+  color: #ffffff;
+}
 .lg-actions .lg-next, .lg-actions .lg-prev{
   color: #ffffff;
+}
+
+/* Tabs */
+code{
+  padding: 1rem;
+  border-radius: 5px;
+  clear: both;
+  border: 2px solid #c7254e;
+  color: #000;
+}
+.tab-content{
+  padding: 1rem;
+}
+.description li{
+  padding: 1rem;
+}
+.description code{
+  padding: 1rem;
 }
