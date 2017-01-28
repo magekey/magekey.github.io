@@ -21,7 +21,23 @@
         <li class="active">{{ page.breadcrumb }}</li>
     </ol>
 
-    {{ content }}
+    <div class="row platforms">
+        {% for platform in site.data.platforms %}
+        {% assign code = platform[0] %}
+        {% assign item = platform[1] %}
+
+        <div class="col-sm-6 col-md-4 list-item">
+            <a class="thumbnail" href="/{{ page.component }}/{{ code }}">
+                <img src="{{ item.thumbnail }}" alt="{{ item.title }}">
+                <div class="caption">
+                    <h3 class="title text-center">{{ item.title }}</h3>
+                </div>
+            </a>
+        </div>
+
+        {% endfor %}
+    </div>
+
     </div>
 
     <!-- BEGIN SCRIPT -->

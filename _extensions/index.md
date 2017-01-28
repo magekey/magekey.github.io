@@ -1,13 +1,6 @@
 ---
-layout: extensions
+layout: platforms
 title: Extensions / MageKey GitHub
 breadcrumb: Extensions
+component: extensions
 ---
-<div class="row">
-    {% for ext in site.data.extensions %}
-    {% assign item = ext[1] %}
-
-    {% include list_item.md %}
-
-    {% endfor %}
-</div>

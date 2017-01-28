@@ -1,9 +1,16 @@
 ---
-layout: extension
-title: Promotion Banner / Extensions / MageKey GitHub
+layout: component
+title: Promotion Banner / Magento 2 / Extensions / MageKey GitHub
 breadcrumb: Promotion Banner
 ---
-{% assign item = site.data.extensions.promotion_banner %}
+{% assign item = site.data.extensions.m2.promotion_banner %}
+
+<ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+    <li><a href="/extensions">Extensions</a></li>
+    <li><a href="/extensions/m2">Magento 2</a></li>
+    <li class="active">{{ page.breadcrumb }}</li>
+</ol>
 
 {% include card.md %}
 
@@ -22,7 +29,7 @@ breadcrumb: Promotion Banner
 
             <div class="pagebreak"></div>
 
-            123123
+
 
         </div>
 
