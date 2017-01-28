@@ -1,7 +1,8 @@
+platform: m2
 code: MageKey_PromotionBanner
 title: Promotion Banner
 thumbnail: http://cdn.magekey.com/m2/extensions/promotion-banner/thumbnail.png
-short_desc: Promotion Banner is simple extension to manage and show up banners at specific date and time.
+short_desc: Promotion Banner is simple extension to manage your banners; it allows to show up banners at specific date and time.
 url: /extensions/m2/promotion-banner.html
 marketing_url: https://marketplace.magento.com/
 slides:

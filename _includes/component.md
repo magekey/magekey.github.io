@@ -1,4 +1,4 @@
-<div class="col-sm-6 col-md-4 list-item">
+<div class="col-sm-6 col-md-4 component">
     <div class="thumbnail">
         <img src="{{ item.thumbnail }}" alt="{{ item.title }}">
         <div class="caption">

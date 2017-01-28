@@ -54,6 +54,9 @@ body{
 .card .info .title{
   text-align: center;
 }
+.card .info .platform{
+  text-align: center;
+}
 .card .info .short-desc{
   display: none;
 }
@@ -76,8 +79,9 @@ body{
 .details .nav-tabs>li.active>a:hover{
   border: none;
   font-size: 24px;
-  /*border: none;
-  font-size: 30px;
-  */
+}
+.toc a{
+  color: #ca500d !important;
+  background: #fff !important;
 }
 

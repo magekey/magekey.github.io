@@ -11,7 +11,7 @@ title: Magento 2 / Extensions / MageKey GitHub
     {% for ext in site.data.extensions.m2 %}
     {% assign item = ext[1] %}
 
-    {% include component_item.md %}
+    {% include component.md %}
 
     {% endfor %}
 </div>
