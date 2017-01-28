@@ -29,7 +29,7 @@ breadcrumb: Promotion Banner
 
             <div class="pagebreak"></div>
 
-
+            Coming Soon
 
         </div>
 
@@ -47,7 +47,7 @@ breadcrumb: Promotion Banner
 
             <div class="pagebreak"></div>
 
-            aqweqweqwe
+            Coming Soon
 
         </div>
     </div>
