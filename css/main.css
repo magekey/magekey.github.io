@@ -9,8 +9,8 @@ body{
   padding-top: 70px;
 }
 
-body .container{
-  margin-bottom:
+body > .container{
+  margin-bottom: 40px;
 }
 p{
   font-size: 16px;
@@ -31,6 +31,9 @@ h2{
 h3{
   font-size: 16px;
   line-height: 20px;
+}
+img{
+  max-width: 100%;
 }
 
 /* Header */
@@ -77,6 +80,19 @@ h3{
 .navbar-default .navbar-nav.navbar-right>li>a:hover{
   background: none;
   border: none;
+}
+
+/* Footer */
+.navbar-fixed-bottom.navbar{
+  min-height: auto;
+}
+.navbar-fixed-bottom .navbar-nav{
+  margin-top: 0;
+}
+.navbar-fixed-bottom .navbar-nav>li{
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 1rem;
 }
 
 /* Component */
@@ -161,8 +177,22 @@ code{
 .description code{
   padding: 1rem;
 }
+.details ul {
+  margin-bottom: 10px;
+}
+.details li {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
 .toc-block{
   margin-bottom: 50px;
+  display: none;
+}
+.toc-block ul{
+  margin: 0;
+}
+.toc-block li{
+  margin: 0;
 }
 .toc{
   list-style: none;

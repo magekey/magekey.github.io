@@ -45,6 +45,9 @@ body{
   color: #ca500d !important;
   font-size: 1rem;
 }
+.navbar-fixed-bottom{
+  display: none;
+}
 .breadcrumb{
   display: none;
 }
@@ -79,6 +82,9 @@ body{
 .details .nav-tabs>li.active>a:hover{
   border: none;
   font-size: 24px;
+}
+.toc-block{
+  display: block;
 }
 .toc a{
   color: #ca500d !important;

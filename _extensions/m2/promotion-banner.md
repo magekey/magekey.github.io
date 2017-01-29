@@ -78,13 +78,17 @@ breadcrumb: Promotion Banner
             <div class="toc-block">
                 <h3>Table of contents:</h3>
                 <ul class="toc">
-                    <li><a href="#getting-around" class="toc-left">Getting Around</a><a href="#getting-around" class="toc-right">3</a></li>
+                    <li><a href="#toc-overview" class="toc-left">Overview</a><a href="#toc-overview" class="toc-right">3</a></li>
+                    <li><a href="#managing-groups" class="toc-left">Managing Groups</a><a href="#managing-groups" class="toc-right">4</a></li>
+                    <li><a href="#managing-banners" class="toc-left">Managing Banners</a><a href="#managing-banners" class="toc-right">5</a></li>
                 </ul>
             </div>
 
             <div class="pagebreak"></div>
 
-            <a name="getting-around"></a>
+            <a name="toc-overview"></a>
+            <h2>Overview</h2>
+
             <p>
             The extension creates banner groups and allows you to place it on any page using Magento widgets.
             Each group can contain several banners.
@@ -92,13 +96,162 @@ breadcrumb: Promotion Banner
             Promotion Banner Slider extension provides Promotion block settings; it allow to place your notes over banner.
             </p>
 
-            <h2>Getting Around</h2>
-
             <p>Promotion Banner introduces its sections under <strong>Content > Promotion Banner</strong> menu. The extension comes with 2 sections:</p>
             <ul>
                 <li><strong>Manage Groups</strong> - allows administrator to create banner groups</li>
                 <li><strong>Manage Banners</strong> - allows administrator to create banners</li>
             </ul>
+
+            <p>&nbsp;</p>
+            <p class="text-center">
+                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-menu.png" />
+            </p>
+
+            <div class="pagebreak"></div>
+
+            <a name="managing-groups"></a>
+            <h2>Managing Groups</h2>
+
+            <p>To create a group navigate to <strong>Content > Promotion Banner > Manage Groups</strong> section.</p>
+
+            <p class="text-center">
+                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-group-grid.png" />
+            </p>
+
+            <p>To create a Group click <strong>Add New Group</strong> button.</p>
+
+            <p class="text-center">
+                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-group-edit.png" />
+            </p>
+
+            <p>The New Group screen is represented with one settings block: Group Information.</p>
+
+            <h3><i>Group Information</i></h3>
+
+            <p>This screen allows store administrator to name the Group. The following settings are available:</p>
+
+            <ul>
+                <li><strong>Group Name</strong> - defines the name of the banner group.</li>
+            </ul>
+
+            <div class="pagebreak"></div>
+
+            <a name="managing-banners"></a>
+            <h2>Managing Banners</h2>
+
+            <p>To create a banner navigate to <strong>Content > Promotion Banner > Manage Banners</strong> section.</p>
+
+            <p class="text-center">
+                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-banner-grid.png" />
+            </p>
+
+            <p>To create a Banner click <strong>Add New Banner</strong> button.</p>
+
+            <p>The New Banner screen is represented with four settings blocks: General, Date & Time, Banner, Promo.</p>
+
+            <h3><i>General</i></h3>
+
+            <ul>
+                <li><strong>Active</strong> - allows enabling/disabling the Banner.</li>
+                <li><strong>Group</strong> - defines the name of the group.</li>
+                <li><strong>Banner Name</strong> - defines the name of the banner for internal purposes.</li>
+            </ul>
+
+            <br/>
+
+            <p class="text-center">
+                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-banner-edit-general.png" />
+            </p>
+
+            <h3><i>Date & Time</i></h3>
+
+            <ul>
+                <li><strong>Date Settings</strong>
+                    <ul>
+                        <li><strong>Use Date</strong> - enables/disable filter by dates</li>
+                        <li><strong>Start Date</strong> - defines start date when banner will be displayed</li>
+                        <li><strong>End Date</strong> - defines end date when banner will be displayed</li>
+                    </ul>
+                </li>
+
+                <div class="pagebreak"></div>
+
+                <li><strong>Time Settings</strong>
+                    <ul>
+                        <li><strong>Use Time</strong> - enables/disable filter by time</li>
+                        <li><strong>Start Time</strong> - defines start time when banner will be displayed</li>
+                        <li><strong>End Time</strong> - defines end date time banner will be displayed</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <br/>
+
+            <p class="text-center">
+                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-banner-edit-datetime.png" />
+            </p>
+
+            <h3><i>Banner</i></h3>
+
+            <ul>
+                <li><strong>Banner Image</strong>
+                    <ul>
+                        <li><strong>Choose Image</strong> - defines image of the banner</li>
+                    </ul>
+                </li>
+                <li><strong>Banner Settings</strong>
+                    <ul>
+                        <li><strong>URL</strong> - defines banner URL</li>
+                        <li><strong>Width</strong> - defines width of the banner</li>
+                        <li><strong>Height</strong> - defines height of the banner</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <br/>
+
+            <p class="text-center">
+                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-banner-edit-banner.png" />
+            </p>
+
+            <div class="pagebreak"></div>
+
+            <h3><i>Promo</i></h3>
+
+            <ul>
+                <li><strong>General</strong>
+                    <ul>
+                        <li><strong>Active</strong> - enables/disables promo block on banner</li>
+                    </ul>
+                </li>
+                <li><strong>Promo Box Settings</strong>
+                    <ul>
+                        <li><strong>Width</strong> - defines width of the promo block</li>
+                        <li><strong>Height</strong> - defines height of the promo block</li>
+                        <li><strong>Position</strong> - defines position of the promo block. Available options: Top Left, Top Right, Bottom Left, Bottom Right</li>
+                        <li><strong>Background</strong> - defines background color of the promo block</li>
+                    </ul>
+                </li>
+                <li><strong>Button Settings</strong>
+                    <ul>
+                        <li><strong>Show Button</strong> - enables/disables button on the promo block</li>
+                        <li><strong>Button Title</strong> - defines title of button on the promo block</li>
+                        <li><strong>Button Title Color</strong> - defines title color of the button on the promo block</li>
+                        <li><strong>Button Background</strong> - defines background color of the button on the promo block</li>
+                    </ul>
+                </li>
+                <li><strong>Content</strong>
+                    <ul>
+                        <li><strong>Promo Content</strong> - defines content text on the promo block</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <br/>
+
+            <p class="text-center">
+                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-banner-edit-promo.png" />
+            </p>
 
         </div>
     </div>

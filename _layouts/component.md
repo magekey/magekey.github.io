@@ -21,6 +21,8 @@
 
     </div>
 
+    {% include footer.md %}
+
     <!-- BEGIN SCRIPT -->
     {% include script_default.md %}
     <script src="/lib/lightgallery/js/lightgallery.min.js"></script>

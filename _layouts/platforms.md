@@ -40,6 +40,8 @@
 
     </div>
 
+    {% include footer.md %}
+
     <!-- BEGIN SCRIPT -->
     {% include script_default.md %}
     {% include script_custom.md %}
