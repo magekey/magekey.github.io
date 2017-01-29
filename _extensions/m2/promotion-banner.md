@@ -66,7 +66,7 @@ breadcrumb: Promotion Banner
 
             <div class="pagebreak"></div>
 
-            {% include install_guide.md %}
+            {% include install_guide_cli.md %}
 
         </div>
 
