@@ -29,35 +29,50 @@ breadcrumb: Promotion Banner
             <div class="pagebreak"></div>
 
             <p>
-            The extension creates banner groups and allows you to place it on any page using Magento widgets.
-            Each group can contain several banners.
-            The Banner settings allow show up banner at any date or time.
-            Promotion Banner Slider extension provides Promotion block settings; it allow to place your notes over banner.
+            The extension creates promotion banners. Each Banner consists of an image and a promotion block.
+            A promotion block helps describing a product or an offer featured on your banner.
+            Banners are assembled in a Group. The Promotion Banner extension allows placing banners at any page using Magento widgets.
             </p>
 
             <p>
-            When using Promotion Banner, the first step is to create a banner groups. This group will be used to place bundle of your banners on page.
-            The next step is to create your banners by selecting group, date and time, by adding image, and by updating promotion block banner settings.
-            Once banners are created place your banner groups on any page through the Magento widgets.
+            The Promotion Banner extension can be helpful for the following tasks: showing several banners per day, at a certain period of time, or just showing a group of banners on weekends or holidays.
+            Here are some examples for using Promotion Banner:
             </p>
+
+            <ul>
+                <li>displaying several banners a day</li>
+                <li>displaying a new banner every next hour</li>
+                <li>displaying one banner from 9 a.m. to 3 p.m., and another banner from 3 p.m. to 9 p.m. every day</li>
+                <li>displaying a new banner every day from 9 a.m. to 7 p.m.</li>
+                <li>displaying a new banner just on Jan 1.</li>
+            </ul>
+
+            <p>
+            When using Promotion Banner, the first step is creating a group of banners, which then can be added into any page using Magento widgets.
+            The next step is creating your banners by selecting a group, using date and time filters, by adding an image, and by updating promotion block banner settings.
+            Once banners are created, place your group of banners at any page using Magento widgets.
+            </p>
+
+
+
 
             <h2>Feature highlights</h2>
 
             <h3>Manage Groups</h3>
 
-            <p>The extension allows to create banner groups and place this group on any page using Magento widgets.</p>
+            <p>The extension allows assembling your banners into a group.</p>
 
             <h3>Create a banner</h3>
 
-            <p>The extension allows to create multiple banners and assign them to group.</p>
+            <p>The extension allows creating banners and assigning them to a group.</p>
 
-            <h3>Banner date and time</h3>
+            <h3>Banner Date and Time</h3>
 
-            <p>Administrator has control over when each banner is displayed and choose date and time.</p>
+            <p>The extension allows to setup the date and the time for displaying your banner. You can either use any of the date or time filters alone, or both.</p>
 
-            <h3>Banner promotion block</h3>
+            <h3>Banner Promotion Block</h3>
 
-            <p>Administrator may setup promotion block over banner.</p>
+            <p>The extension allows to create a promotion block over your banner, and setup a title, a description and a Shop Now button.</p>
 
         </div>
 
@@ -90,10 +105,9 @@ breadcrumb: Promotion Banner
             <h2>Overview</h2>
 
             <p>
-            The extension creates banner groups and allows you to place it on any page using Magento widgets.
-            Each group can contain several banners.
-            The Banner settings allow show up banner at any date or time.
-            Promotion Banner Slider extension provides Promotion block settings; it allow to place your notes over banner.
+            The extension creates promotion banners. Each Banner consists of an image and a promotion block.
+            A promotion block helps describing a product or an offer featured on your banner.
+            Banners are assembled in a Group. The Promotion Banner extension allows placing banners at any page using Magento widgets.
             </p>
 
             <p>Promotion Banner introduces its sections under <strong>Content > Promotion Banner</strong> menu. The extension comes with 2 sections:</p>
