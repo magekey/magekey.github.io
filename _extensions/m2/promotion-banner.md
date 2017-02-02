@@ -94,8 +94,8 @@ breadcrumb: Promotion Banner
                 <h3>Table of contents:</h3>
                 <ul class="toc">
                     <li><a href="#toc-overview" class="toc-left">Overview</a><a href="#toc-overview" class="toc-right">3</a></li>
-                    <li><a href="#managing-groups" class="toc-left">Managing Groups</a><a href="#managing-groups" class="toc-right">4</a></li>
-                    <li><a href="#managing-banners" class="toc-left">Managing Banners</a><a href="#managing-banners" class="toc-right">5</a></li>
+                    <li><a href="#managing-groups" class="toc-left">Manage Groups</a><a href="#managing-groups" class="toc-right">4</a></li>
+                    <li><a href="#managing-banners" class="toc-left">Manage Banners</a><a href="#managing-banners" class="toc-right">5</a></li>
                 </ul>
             </div>
 
@@ -124,7 +124,7 @@ breadcrumb: Promotion Banner
             <div class="pagebreak"></div>
 
             <a name="managing-groups"></a>
-            <h2>Managing Groups</h2>
+            <h2>Manage Groups</h2>
 
             <p>To create a group navigate to <strong>Content > Promotion Banner > Manage Groups</strong> section.</p>
 
@@ -151,7 +151,7 @@ breadcrumb: Promotion Banner
             <div class="pagebreak"></div>
 
             <a name="managing-banners"></a>
-            <h2>Managing Banners</h2>
+            <h2>Manage Banners</h2>
 
             <p>To create a banner navigate to <strong>Content > Promotion Banner > Manage Banners</strong> section.</p>
 
