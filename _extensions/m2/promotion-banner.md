@@ -1,7 +1,6 @@
 ---
 layout: component
 title: Promotion Banner / Magento 2 / Extensions / MageKey GitHub
-breadcrumb: Promotion Banner
 ---
 {% assign item = site.data.extensions.m2.promotion_banner %}
 
@@ -9,7 +8,7 @@ breadcrumb: Promotion Banner
     <li><a href="/">Home</a></li>
     <li><a href="/extensions">Extensions</a></li>
     <li><a href="/extensions/m2">Magento 2</a></li>
-    <li class="active">{{ page.breadcrumb }}</li>
+    <li class="active">Promotion Banner</li>
 </ol>
 
 {% include card.md %}
