@@ -1,6 +1,6 @@
 ---
 layout: component
-title: Fax Events / Magento 2 / Extensions / MageKey GitHub
+title: Interfax Web Service / Magento 2 / Extensions / MageKey GitHub
 ---
 {% assign item = site.data.extensions.m2.fax_events %}
 
@@ -8,7 +8,7 @@ title: Fax Events / Magento 2 / Extensions / MageKey GitHub
     <li><a href="/">Home</a></li>
     <li><a href="/extensions">Extensions</a></li>
     <li><a href="/extensions/m2">Magento 2</a></li>
-    <li class="active">Fax Events</li>
+    <li class="active">Interfax Web Service</li>
 </ol>
 
 {% include card.md %}
@@ -28,13 +28,13 @@ title: Fax Events / Magento 2 / Extensions / MageKey GitHub
             <div class="pagebreak"></div>
 
             <p>
-            Fax Events is an extension for faxing messages. It uses Interfax services provider to create text documents and transmit them to your fax machine.
+            Interfax Web Service is an extension for faxing messages. It uses Interfax services provider to create text documents and transmit them to your fax machine.
             To send a fax message to a given fax number, the extension uses standard Magento email templates.
             The text of your fax document will be identical to your email template text.
             </p>
 
             <p>
-            Fax Events extension has got 3 trigger events for sending a fax message:
+            Interfax Web Service extension has got 3 trigger events for sending a fax message:
             </p>
 
             <ul>
@@ -44,7 +44,7 @@ title: Fax Events / Magento 2 / Extensions / MageKey GitHub
             </ul>
 
             <p>
-            The first step in using Fax Events is setting up an Interfax service provider by registering at <a href="http://www.interfax.net" target="_blank">www.interfax.net</a>.
+            The first step in using Interfax Web Service is setting up an Interfax service provider by registering at <a href="http://www.interfax.net" target="_blank">www.interfax.net</a>.
             The email and password obtained during registration will be used for authorization at the service provider website when sending a fax message.
             An administrator will enter your email and password into the extension settings in the backend panel of your website.
             You will also need to specify the fax number all the messages shall be sent to.
@@ -96,12 +96,12 @@ title: Fax Events / Magento 2 / Extensions / MageKey GitHub
             <h2>Overview</h2>
 
             <p style="margin-bottom: 5px;">
-            Fax Events is an extension for faxing messages. It uses Interfax services provider to create text documents and transmit them to your fax machine.
+            Interfax Web Service is an extension for faxing messages. It uses Interfax services provider to create text documents and transmit them to your fax machine.
             To send a fax message to a given fax number, the extension uses standard Magento email templates.
             The text of your fax document will be identical to your email template text.
             </p>
 
-            <p style="margin-bottom: 5px;">Fax Events extension has got 3 trigger events for sending a fax message:</p>
+            <p style="margin-bottom: 5px;">Interfax Web Service extension has got 3 trigger events for sending a fax message:</p>
 
             <ul>
                 <li>faxing a message when a standard Magento Contact form is completed</li>
@@ -110,7 +110,7 @@ title: Fax Events / Magento 2 / Extensions / MageKey GitHub
             </ul>
 
 
-            <p style="margin-top: 10px;">Fax Events introduces a configuration section under <strong>Marketing > Fax Events</strong> menu. The extension comes with 1 section: <b>Configuration</b></p>
+            <p style="margin-top: 10px;">Interfax Web Service introduces a configuration section under <strong>Marketing > Interfax Web Service</strong> menu. The extension comes with 1 section: <b>Configuration</b></p>
 
             <p class="text-center">
                 <img style="width: 400px" src="http://cdn.magekey.com/marketplace/extensions/m2/fax-events/slide1.png" />
@@ -122,7 +122,7 @@ title: Fax Events / Magento 2 / Extensions / MageKey GitHub
             <h2>Configuration</h2>
 
             <br/>
-            <p>To set up the Fax Events extension navigate to <strong>Marketing > Fax Events > Configuration</strong> section.</p>
+            <p>To set up the Interfax Web Service extension navigate to <strong>Marketing > Interfax Web Service > Configuration</strong> section.</p>
 
             <p class="text-center">
                 <img src="http://cdn.magekey.com/marketplace/extensions/m2/fax-events/slide2.png" />
@@ -133,7 +133,7 @@ title: Fax Events / Magento 2 / Extensions / MageKey GitHub
             <h3><i>General Settings</i></h3>
 
             <ul>
-                <li><strong>Enable Module</strong> - allows enabling/disabling Fax Events extension.</li>
+                <li><strong>Enable Module</strong> - allows enabling/disabling Interfax Web Service extension.</li>
             </ul>
 
             <br/>
@@ -145,7 +145,7 @@ title: Fax Events / Magento 2 / Extensions / MageKey GitHub
 
             <h3><i>Provider</i></h3>
 
-            <p>Fax Events uses Interfax services provider to create text documents and transmit them to your fax machine.</p>
+            <p>Interfax Web Service uses Interfax services provider to create text documents and transmit them to your fax machine.</p>
 
             <ul>
                 <li><strong>Provider</strong> - allows to choose fax provider. Available only Interfax option.</li>
@@ -165,7 +165,7 @@ title: Fax Events / Magento 2 / Extensions / MageKey GitHub
             <h3><i>Events</i></h3>
 
             <p>
-            Fax Events extension has got 3 trigger events for sending a fax message:
+            Interfax Web Service extension has got 3 trigger events for sending a fax message:
             </p>
 
             <ul>

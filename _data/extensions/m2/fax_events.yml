@@ -1,8 +1,8 @@
 platform: m2
 code: MageKey_FaxEvents
-title: Fax Events
+title: Interfax Web Service
 thumbnail: http://cdn.magekey.com/marketplace/extensions/m2/fax-events/thumbnail.png
-short_desc: Fax Events is an extension for faxing messages using Interfax service provider.
+short_desc: Interfax Web Service is an extension for faxing messages using Interfax service provider.
 url: /extensions/m2/fax-events.html
 marketing_url: https://marketplace.magento.com/
 slides:
