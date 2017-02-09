@@ -171,6 +171,10 @@ code{
 .tab-content{
   padding: 1rem;
 }
+.short-desc{
+  height: 80px;
+  overflow: hidden;
+}
 .description li{
   padding: 1rem;
 }
