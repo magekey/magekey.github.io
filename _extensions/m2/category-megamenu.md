@@ -28,38 +28,34 @@ title: Category Mega Menu / Magento 2 / Extensions / MageKey GitHub
             <div class="pagebreak"></div>
 
             <p>
-            Category Mega Menu extension is an extension which helps store owners to improve default navigation menu.
-            The main goal of the extension is to provide an easy solution to improve navigation.
-            When using the Category Mega Menu you do not need to worry about creating the new menu or menu items.
-            The extension uses the default Magento Catalog categories to display the navigation menu.
-            The Category Mega Menu extension allows to display the category image and description in sub menu.
+            Category Mega Menu is an extension intended for shop owners that will help you improve navigation menu.
+            It uses standard Magento categories for displaying navigation menu, so you don't have to worry about making a new menu for your shop.
+            The extension replaces a standard navigation menu with a new improved Mega Menu.
+            It also supplements the menu with an information block located in the sub menu.
+            The information block contains Category Image and Category description.
+            It enables providing a customer with a more detailed information about an item in the category.
             </p>
 
             <p>
-            The Category Mega Menu extension has a great design tool which helps your administrator to setup the menu design.
-            The design tool allows you to switch the menu and sub menu size and backgrounds, update fonts and colors of your links,
-            pick settings for hover and active links, adds borders and offets.
+            With the Category Mega Menu extension, an administrator can customize your navigation menu design.
+            For this purpose, a convenient design tool is implemented, which allows detailed customization of your menu styles.
+            Using this tool, you can change the background for top menu and sub menu, add offsets and border, and specify size of your menu.
+            You can customize font and size of the menu links, using both your browser standard fonts, and Google fonts,
+            and to make different settings for hover links and active links states.
+            You can also customize your information block design, and specify the text background and font.
             </p>
 
             <p>
             The Category Mega Menu extension is fully responsive.
             </p>
 
-            <h2>Category Mega Menu Features:</h2>
+            <h2>Features:</h2>
 
             <ul>
-                <li>displaying Catalog categories in navigation menu</li>
-                <li>displaying an image and description in sub menu</li>
-                <li>implemented desing tool helps you to improve menu styles</li>
-                <li>fully responsive</li>
-            </ul>
-
-            <h2>Design Features:</h2>
-
-            <ul>
-                <li>using design tool you can change the menu size and background.</li>
-                <li>using design tool you can change sub menu background.</li>
-                <li>using design tool you can change colors and fonts of you links, adds border and offsets.</li>
+                <li>using standard Magento categories for displaying navigation menu.</li>
+                <li>using information block in sub menu, displaying Category Image and Category Description.</li>
+                <li>with design tool an administrator can customize your menu design.</li>
+                <li>fully responsive.</li>
             </ul>
 
         </div>
@@ -93,22 +89,19 @@ title: Category Mega Menu / Magento 2 / Extensions / MageKey GitHub
             <h2>Overview</h2>
 
             <p style="margin-bottom: 5px;">
-            Category Mega Menu extension is an extension which helps store owners to improve default navigation menu.
-            The main goal of the extension is to provide an easy solution to improve navigation.
-            When using the Category Mega Menu you do not need to worry about creating the new menu or menu items.
-            The extension uses the default Magento Catalog categories to display the navigation menu.
-            The Category Mega Menu extension allows to display the category image and description in sub menu.
-            </p>
-
-            <p style="margin-bottom: 5px;">
-            The Category Mega Menu extension has a great design tool which helps your administrator to setup the menu design.
-            The design tool allows you to switch the menu and sub menu size and backgrounds, update fonts and colors of your links,
-            pick settings for hover and active links, adds borders and offets.
+            Category Mega Menu is an extension intended for shop owners that will help you improve navigation menu.
+            It uses standard Magento categories for displaying navigation menu, so you don't have to worry about making a new menu for your shop.
+            The extension replaces a standard navigation menu with a new improved Mega Menu.
+            It also supplements the menu with an information block located in the sub menu.
+            The information block contains Category Image and Category description.
+            It enables providing a customer with a more detailed information about an item in the category.
             </p>
 
             <p style="margin-bottom: 5px;">
             The Category Mega Menu extension is fully responsive.
             </p>
+
+            <br/>
 
             <p style="margin-top: 10px;">Category Mega Menu introduces a configuration section under <strong>Content > Category Mega Menu</strong> menu. The extension comes with 1 section: <b>Configuration</b></p>
 
