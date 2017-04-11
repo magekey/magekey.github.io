@@ -1,0 +1,16 @@
+platform: m2
+code: MageKey_CustomerSidebar
+title: Customer Sidebar
+thumbnail: http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/thumbnail.png
+short_desc: Customer Sidebar is an extension to help shop owners improve customer navigation menu.
+url: /extensions/m2/customer-sidebar.html
+marketing_url: https://marketplace.magento.com/
+slides:
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/thumbnail.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide1.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide2.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide3.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide8.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide12.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide13.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide14.png
