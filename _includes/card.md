@@ -12,6 +12,10 @@
         <h1 class="title">{{ item.title }}</h1>
         <h3 class="platform">for {{ site.data.platforms[item.platform].title }}</h3>
         <p class="short-desc">{{ item.short_desc }}</p>
+        {% if item.marketing_url %}
         <a href="{{ item.marketing_url }}" class="marketing-url btn btn-primary" role="button" target="_blank">Go to Marketplace</a>
+        {% else %}
+        <a href="mailto:support@magekey.com" class="marketing-url btn btn-primary">Contact Developer</a>
+        {% endif %}
     </div>
 </div>
