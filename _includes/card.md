@@ -7,6 +7,9 @@
             </a>
             {% endfor %}
         </div>
+        <div class="print-thumbnail">
+            <img src="{{ item.thumbnail }}" alt="" />
+        </div>
     </div>
     <div class="info col-md-6">
         <h1 class="title">{{ item.title }}</h1>

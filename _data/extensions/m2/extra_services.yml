@@ -1,0 +1,21 @@
+platform: m2
+code: MageKey_ExtraServices
+title: Checkout Additional Services
+thumbnail: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/thumbnail.png
+short_desc: The Checkout Additional Services extension adds additional services step to checkout.
+url: /extensions/m2/extra-services.html
+marketing_url:
+slides:
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/thumbnail.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide1.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide2.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide3.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide4.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide5.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide10.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide11.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide12.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide13.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide14.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide15.png
+  - url: http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide16.png

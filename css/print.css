@@ -51,8 +51,12 @@ body{
 .breadcrumb{
   display: none;
 }
-.card .gallery .thumbnails a{
+.card .gallery .thumbnails a,
+.card .gallery .thumbnails .thumbnail-item.first-item {
   display: none;
+}
+.card .gallery .print-thumbnail {
+    display: block;
 }
 .card .info .title{
   text-align: center;
@@ -90,4 +94,3 @@ body{
   color: #ca500d !important;
   background: #fff !important;
 }
-
