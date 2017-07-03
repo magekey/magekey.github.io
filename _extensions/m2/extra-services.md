@@ -34,8 +34,17 @@ title: Checkout Additional Services / Magento 2 / Extensions / MageKey GitHub
 
             <p>
             Every additional service consist of title, description, price and editable feature.
-            You can setup service price depends of your needs. It could be a fixed cost or percent amount of customer shopping cart.
-            Editable feature allows extend your service with input field. You can choose what it will be: text field, textarea or dropdown.
+            You can setup the service price depends of your needs. It could be a fixed cost or percent amount of customer shopping cart.
+            Editable feature allows to extend your service with input field. You have ability to choose the type of your input.
+            It could be a text field, a textarea or a dropdown.
+            Using Conditions section you can assign stores and customer groups to your services.
+            </p>
+
+            <p>
+            Through the Additional Services configuration your administrator can update Checkout and Totals settings.
+            The Checkout Additional Services extension adds service totals to Checkout page, Customer Orders page and Customer emails.
+            New totals will be added to new order email, new invoice email and creditmemo email.
+            So your customer could watch service total price.
             </p>
 
         </div>
@@ -202,7 +211,7 @@ title: Checkout Additional Services / Magento 2 / Extensions / MageKey GitHub
             <p class="text-center">
                 <img style="max-height: 700px; max-height: 600px" src="http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide11.png" />
             </p>
-            
+
         </div>
     </div>
 
