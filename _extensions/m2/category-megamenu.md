@@ -106,7 +106,7 @@ title: Category Mega Menu / Magento 2 / Extensions / MageKey GitHub
             <p style="margin-top: 10px;">Category Mega Menu introduces a configuration section under <strong>Content > Category Mega Menu</strong> menu. The extension comes with 1 section: <b>Configuration</b></p>
 
             <p class="text-center">
-                <img style="max-height: 700px" src="http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide5.jpg" />
+                <img style="max-height: 700px" src="{{ site.data.config.mediaBaseUrl }}m2/category-megamenu/slide5.jpg" />
             </p>
 
             <div class="pagebreak"></div>
@@ -118,7 +118,7 @@ title: Category Mega Menu / Magento 2 / Extensions / MageKey GitHub
             <p>To set up the Category Mega Menu extension navigate to <strong>Content > Category Mega Menu > Configuration</strong> section.</p>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide6.jpg" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/category-megamenu/slide6.jpg" />
             </p>
 
             <p>The Configuration screen is represented with two settings blocks: Containers and Links.</p>
@@ -134,7 +134,7 @@ title: Category Mega Menu / Magento 2 / Extensions / MageKey GitHub
 
             <br/>
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide7.jpg" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/category-megamenu/slide7.jpg" />
             </p>
 
             <div class="pagebreak"></div>
@@ -170,7 +170,7 @@ title: Category Mega Menu / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img style="max-height: 700px" src="http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide8.jpg" />
+                <img style="max-height: 700px" src="{{ site.data.config.mediaBaseUrl }}m2/category-megamenu/slide8.jpg" />
             </p>
 
         </div>

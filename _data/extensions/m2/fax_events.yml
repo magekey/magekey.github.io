@@ -1,17 +1,17 @@
 platform: m2
 code: MageKey_FaxEvents
 title: Interfax Web Service
-thumbnail: http://cdn.magekey.com/marketplace/extensions/m2/fax-events/thumbnail.png
+thumbnail: m2/fax-events/thumbnail.png
 short_desc: Interfax Web Service is an extension for faxing messages using Interfax service provider.
 url: /extensions/m2/fax-events.html
 marketing_url: https://marketplace.magento.com/magekey-module-fax-events.html
 slides:
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/fax-events/thumbnail.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/fax-events/slide1.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/fax-events/slide2.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/fax-events/slide3.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/fax-events/slide4.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/fax-events/slide5.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/fax-events/fax-contact.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/fax-events/fax-new-account.jpg
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/fax-events/fax-new-order.jpg
+  - url: m2/fax-events/thumbnail.png
+  - url: m2/fax-events/slide1.png
+  - url: m2/fax-events/slide2.png
+  - url: m2/fax-events/slide3.png
+  - url: m2/fax-events/slide4.png
+  - url: m2/fax-events/slide5.png
+  - url: m2/fax-events/fax-contact.png
+  - url: m2/fax-events/fax-new-account.jpg
+  - url: m2/fax-events/fax-new-order.jpg

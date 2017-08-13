@@ -113,7 +113,7 @@ title: Interfax Web Service / Magento 2 / Extensions / MageKey GitHub
             <p style="margin-top: 10px;">Interfax Web Service introduces a configuration section under <strong>Marketing > Interfax Web Service</strong> menu. The extension comes with 1 section: <b>Configuration</b></p>
 
             <p class="text-center">
-                <img style="width: 400px" src="http://cdn.magekey.com/marketplace/extensions/m2/fax-events/slide1.png" />
+                <img style="width: 400px" src="{{ site.data.config.mediaBaseUrl }}m2/fax-events/slide1.png" />
             </p>
 
             <div class="pagebreak"></div>
@@ -125,7 +125,7 @@ title: Interfax Web Service / Magento 2 / Extensions / MageKey GitHub
             <p>To set up the Interfax Web Service extension navigate to <strong>Marketing > Interfax Web Service > Configuration</strong> section.</p>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/fax-events/slide2.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/fax-events/slide2.png" />
             </p>
 
             <p>The Configuration screen is represented with four settings blocks: General Settings, Provider, Events, Logging.</p>
@@ -138,7 +138,7 @@ title: Interfax Web Service / Magento 2 / Extensions / MageKey GitHub
 
             <br/>
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/fax-events/us-config-general.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/fax-events/us-config-general.png" />
             </p>
 
             <div class="pagebreak"></div>
@@ -158,7 +158,7 @@ title: Interfax Web Service / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/fax-events/slide3.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/fax-events/slide3.png" />
             </p>
 
             <div class="pagebreak"></div>
@@ -175,7 +175,7 @@ title: Interfax Web Service / Magento 2 / Extensions / MageKey GitHub
             </ul>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/fax-events/slide4.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/fax-events/slide4.png" />
             </p>
 
             <h3><i>Logging</i></h3>
@@ -185,7 +185,7 @@ title: Interfax Web Service / Magento 2 / Extensions / MageKey GitHub
             </ul>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/fax-events/slide5.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/fax-events/slide5.png" />
             </p>
 
             <div class="pagebreak"></div>
@@ -201,7 +201,7 @@ title: Interfax Web Service / Magento 2 / Extensions / MageKey GitHub
             <p>Fill the form and click <b>Submit</b> button</p>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/fax-events/ug-contact-form.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/fax-events/ug-contact-form.png" />
             </p>
 
             <div class="pagebreak"></div>
@@ -213,7 +213,7 @@ title: Interfax Web Service / Magento 2 / Extensions / MageKey GitHub
             <p>Fill the form and click <b>Create an Account</b> button</p>
 
             <p class="text-center">
-                <img style="width: 450px;" src="http://cdn.magekey.com/marketplace/extensions/m2/fax-events/ug-customer-new-account.png" />
+                <img style="width: 450px;" src="{{ site.data.config.mediaBaseUrl }}m2/fax-events/ug-customer-new-account.png" />
             </p>
 
             <p>&nbsp;</p>

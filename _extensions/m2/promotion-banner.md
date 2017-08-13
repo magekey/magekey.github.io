@@ -117,7 +117,7 @@ title: Promotion Banner / Magento 2 / Extensions / MageKey GitHub
 
             <p>&nbsp;</p>
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-menu.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/promotion-banner/ug-menu.png" />
             </p>
 
             <div class="pagebreak"></div>
@@ -128,13 +128,13 @@ title: Promotion Banner / Magento 2 / Extensions / MageKey GitHub
             <p>To create a group navigate to <strong>Content > Promotion Banner > Manage Groups</strong> section.</p>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-group-grid.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/promotion-banner/ug-group-grid.png" />
             </p>
 
             <p>To create a Group click <strong>Add New Group</strong> button.</p>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-group-edit.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/promotion-banner/ug-group-edit.png" />
             </p>
 
             <p>The New Group screen is represented with one settings block: Group Information.</p>
@@ -155,7 +155,7 @@ title: Promotion Banner / Magento 2 / Extensions / MageKey GitHub
             <p>To create a banner navigate to <strong>Content > Promotion Banner > Manage Banners</strong> section.</p>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-banner-grid.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/promotion-banner/ug-banner-grid.png" />
             </p>
 
             <p>To create a Banner click <strong>Add New Banner</strong> button.</p>
@@ -173,7 +173,7 @@ title: Promotion Banner / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-banner-edit-general.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/promotion-banner/ug-banner-edit-general.png" />
             </p>
 
             <h3><i>Date & Time</i></h3>
@@ -201,7 +201,7 @@ title: Promotion Banner / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-banner-edit-datetime.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/promotion-banner/ug-banner-edit-datetime.png" />
             </p>
 
             <h3><i>Banner</i></h3>
@@ -224,7 +224,7 @@ title: Promotion Banner / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-banner-edit-banner.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/promotion-banner/ug-banner-edit-banner.png" />
             </p>
 
             <div class="pagebreak"></div>
@@ -263,7 +263,7 @@ title: Promotion Banner / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/ug-banner-edit-promo.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/promotion-banner/ug-banner-edit-promo.png" />
             </p>
 
         </div>

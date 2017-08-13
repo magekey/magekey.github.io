@@ -1,18 +1,19 @@
+disabled: true
 platform: m2
 code: MageKey_MegaMenu
 title: Category Mega Menu
-thumbnail: http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/thumbnail.png
+thumbnail: m2/category-megamenu/thumbnail.png
 short_desc: Category Mega Menu is a simple extension to help shop owners improve navigation menu.
 url: /extensions/m2/category-megamenu.html
 marketing_url:
 slides:
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/thumbnail.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide1.jpg
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide2.jpg
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide3.jpg
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide4.jpg
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide5.jpg
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide6.jpg
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide7.jpg
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide8.jpg
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/category-megamenu/slide9.jpg
+  - url: m2/category-megamenu/thumbnail.png
+  - url: m2/category-megamenu/slide1.jpg
+  - url: m2/category-megamenu/slide2.jpg
+  - url: m2/category-megamenu/slide3.jpg
+  - url: m2/category-megamenu/slide4.jpg
+  - url: m2/category-megamenu/slide5.jpg
+  - url: m2/category-megamenu/slide6.jpg
+  - url: m2/category-megamenu/slide7.jpg
+  - url: m2/category-megamenu/slide8.jpg
+  - url: m2/category-megamenu/slide9.jpg

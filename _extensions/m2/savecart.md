@@ -28,7 +28,7 @@ title: Save Shopping Cart / Magento 2 / Extensions / MageKey GitHub
             <div class="pagebreak"></div>
 
             <p>
-            The Save Shopping Cart extension will allow your customers to save their shopping carts for later or to duplicate previous orders. 
+            The Save Shopping Cart extension will allow your customers to save their shopping carts for later or to duplicate previous orders.
             Add products to the shopping cart and select the "Save Shopping Cart" button.
             Customer will be able to save shopping cart on Minicart popup or on Shopping Cart page.
             Customers can save multiple carts.
@@ -77,69 +77,69 @@ title: Save Shopping Cart / Magento 2 / Extensions / MageKey GitHub
             <h2>Overview</h2>
 
             <p>
-            The Save Shopping Cart extension will allow your customers to save their shopping carts for later or to duplicate previous orders. 
+            The Save Shopping Cart extension will allow your customers to save their shopping carts for later or to duplicate previous orders.
             Add products to the shopping cart and select the "Save Shopping Cart" button.
             Customer will be able to save shopping cart on Minicart popup or on Shopping Cart page.
             Customers can save multiple carts.
             Carts can be viewed and accessed from the "Customer Accounts" page by selecting the "Saved Shopping Carts" link in the "My Account" navigation.
             </p>
-            
+
             <br/>
-            
+
             <p class="text-center">
-                <img style="max-height: 700px" src="http://cdn.magekey.com/marketplace/extensions/m2/savecart/slide1.png" />
+                <img style="max-height: 700px" src="{{ site.data.config.mediaBaseUrl }}m2/savecart/slide1.png" />
             </p>
-            
+
             <div class="pagebreak"></div>
-            
+
             <a name="configuration"></a>
             <h2>Configuration</h2>
-            
+
             <p style="margin-top: 10px;">Save Shopping Cart introduces a configuration section under <strong>Stores > Configuration > Advanced Tab > Advanced</strong> menu.</p>
 
-            <p>The Configuration screen is represented with one setting block. To disable Save Shopping cart extension use <b>{{ item.code }}</b> field and choose <b>Disable</b></p>    
-            
+            <p>The Configuration screen is represented with one setting block. To disable Save Shopping cart extension use <b>{{ item.code }}</b> field and choose <b>Disable</b></p>
+
             <p class="text-center">
-                <img style="max-height: 700px" src="http://cdn.magekey.com/marketplace/extensions/m2/savecart/slide6.png" />
+                <img style="max-height: 700px" src="{{ site.data.config.mediaBaseUrl }}m2/savecart/slide6.png" />
             </p>
-            
+
             <div class="pagebreak"></div>
-            
+
             <a name="save-shopping-cart"></a>
             <h2>Save Shopping Cart</h2>
 
             <p style="margin-top: 10px;">Save Shopping Cart extension introduces two ways to saving cart.</p>
-            
+
             <h3>Save shopping cart on Minicart popup</h3>
-            
+
             <br/>
 
             <p class="text-center">
-                <img style="max-height: 700px; width: 200px; margin-right: 5%;" src="http://cdn.magekey.com/marketplace/extensions/m2/savecart/slide2.png" />
-                <img style="max-height: 700px; width: 600px;" src="http://cdn.magekey.com/marketplace/extensions/m2/savecart/slide3.png" />
+                <img style="max-height: 700px; width: 200px; margin-right: 5%;" src="{{ site.data.config.mediaBaseUrl }}m2/savecart/slide2.png" />
+                <img style="max-height: 700px; width: 600px;" src="{{ site.data.config.mediaBaseUrl }}m2/savecart/slide3.png" />
             </p>
-            
+
             <br/>
-            
+
             <h3>Save shopping cart on Shopping cart page</h3>
-            
+
             <br/>
 
             <p class="text-center">
-                <img style="max-height: 700px; max-height: 600px" src="http://cdn.magekey.com/marketplace/extensions/m2/savecart/slide4.png" />
+                <img style="max-height: 700px; max-height: 600px" src="{{ site.data.config.mediaBaseUrl }}m2/savecart/slide4.png" />
             </p>
 
             <div class="pagebreak"></div>
-            
+
             <a name="restore-shopping-cart"></a>
             <h2>Restore Shopping Cart</h2>
-            
+
             <h3>Restore saved shopping cart on "Saved Shopping Carts" page in "My Account" navigation</h3>
-            
+
             <br/>
 
             <p class="text-center">
-                <img style="max-height: 700px; max-height: 600px" src="http://cdn.magekey.com/marketplace/extensions/m2/savecart/slide1.png" />
+                <img style="max-height: 700px; max-height: 600px" src="{{ site.data.config.mediaBaseUrl }}m2/savecart/slide1.png" />
             </p>
 
         </div>

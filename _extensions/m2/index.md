@@ -9,6 +9,10 @@ title: Magento 2 / Extensions / MageKey GitHub
 </ol>
 <div class="row">
     {% for ext in site.data.extensions.m2 %}
+    {% if ext[1].disabled %}
+        {% continue %}
+    {% endif %}
+
     {% assign item = ext[1] %}
 
     {% include component.md %}

@@ -93,7 +93,7 @@ title: Checkout Additional Services / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img style="max-height: 700px" src="http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide10.png" />
+                <img style="max-height: 700px" src="{{ site.data.config.mediaBaseUrl }}m2/extraservices/slide10.png" />
             </p>
 
             <div class="pagebreak"></div>
@@ -106,7 +106,7 @@ title: Checkout Additional Services / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img style="max-height: 700px" src="http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide12.png" />
+                <img style="max-height: 700px" src="{{ site.data.config.mediaBaseUrl }}m2/extraservices/slide12.png" />
             </p>
 
             <p>To create a new service click <strong>Add Service</strong> button.</p>
@@ -126,7 +126,7 @@ title: Checkout Additional Services / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img style="max-height: 700px" src="http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide13.png" />
+                <img style="max-height: 700px" src="{{ site.data.config.mediaBaseUrl }}m2/extraservices/slide13.png" />
             </p>
 
             <div class="pagebreak"></div>
@@ -141,7 +141,7 @@ title: Checkout Additional Services / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img style="max-height: 700px" src="http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide14.png" />
+                <img style="max-height: 700px" src="{{ site.data.config.mediaBaseUrl }}m2/extraservices/slide14.png" />
             </p>
 
             <br/>
@@ -157,7 +157,7 @@ title: Checkout Additional Services / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img style="max-height: 700px" src="http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide15.png" />
+                <img style="max-height: 700px" src="{{ site.data.config.mediaBaseUrl }}m2/extraservices/slide15.png" />
             </p>
 
             <div class="pagebreak"></div>
@@ -174,7 +174,7 @@ title: Checkout Additional Services / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img style="max-height: 700px" src="http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide16.png" />
+                <img style="max-height: 700px" src="{{ site.data.config.mediaBaseUrl }}m2/extraservices/slide16.png" />
             </p>
 
             <div class="pagebreak"></div>
@@ -209,7 +209,7 @@ title: Checkout Additional Services / Magento 2 / Extensions / MageKey GitHub
             <br/>
 
             <p class="text-center">
-                <img style="max-height: 700px; max-height: 600px" src="http://cdn.magekey.com/marketplace/extensions/m2/extraservices/slide11.png" />
+                <img style="max-height: 700px; max-height: 600px" src="{{ site.data.config.mediaBaseUrl }}m2/extraservices/slide11.png" />
             </p>
 
         </div>

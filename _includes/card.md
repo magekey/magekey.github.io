@@ -2,13 +2,13 @@
     <div class="gallery col-md-6">
         <div class="thumbnails">
             {% for slide in item.slides %}
-            <a href="{{ slide.url }}" class="thumbnail-item hidden-sm{% if forloop.index == 1 %} first-item{% endif %}">
-                <img src="{{ slide.url }}" alt="" />
+            <a href="{{ site.data.config.mediaBaseUrl }}{{ slide.url }}" class="thumbnail-item hidden-sm{% if forloop.index == 1 %} first-item{% endif %}">
+                <img src="{{ site.data.config.mediaBaseUrl }}{{ slide.url }}" alt="" />
             </a>
             {% endfor %}
         </div>
         <div class="print-thumbnail">
-            <img src="{{ item.thumbnail }}" alt="" />
+            <img src="{{ site.data.config.mediaBaseUrl }}{{ item.thumbnail }}" alt="" />
         </div>
     </div>
     <div class="info col-md-6">

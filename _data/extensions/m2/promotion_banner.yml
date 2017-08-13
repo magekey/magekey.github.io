@@ -1,19 +1,19 @@
 platform: m2
 code: MageKey_PromotionBanner
 title: Promotion Banner
-thumbnail: http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/thumbnail.png
+thumbnail: m2/promotion-banner/thumbnail.png
 short_desc: Promotion Banner is a simple extension to manage banners.
 url: /extensions/m2/promotion-banner.html
 marketing_url: https://marketplace.magento.com/magekey-module-promotion-banner.html
 slides:
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/thumbnail.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/slide1.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/slide2.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/slide3.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/slide4.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/slide5.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/slide6.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/slide7.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/slide8.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/slide9.png
-  - url: http://cdn.magekey.com/marketplace/extensions/m2/promotion-banner/slide10.png
+  - url: m2/promotion-banner/thumbnail.png
+  - url: m2/promotion-banner/slide1.png
+  - url: m2/promotion-banner/slide2.png
+  - url: m2/promotion-banner/slide3.png
+  - url: m2/promotion-banner/slide4.png
+  - url: m2/promotion-banner/slide5.png
+  - url: m2/promotion-banner/slide6.png
+  - url: m2/promotion-banner/slide7.png
+  - url: m2/promotion-banner/slide8.png
+  - url: m2/promotion-banner/slide9.png
+  - url: m2/promotion-banner/slide10.png

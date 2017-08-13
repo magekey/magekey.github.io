@@ -30,7 +30,7 @@ title: Customer Sidebar / Magento 2 / Extensions / MageKey GitHub
             <p>
             Customer Sidebar is an extension intended for shop owners that will help you improve customer  navigation menu.
             The extension replaces a standard customer navigation menu with a new improved Customer Sidebar.
-            Customer Sidebar it’s a left sidebar that contains the logo block on the top, main menu block implemented with icons and submenu block. 
+            Customer Sidebar it’s a left sidebar that contains the logo block on the top, main menu block implemented with icons and submenu block.
             Customer Sidebar extension allows administrator to manage links and icons. You can simple add new custom link or default magento link.
             </p>
 
@@ -90,49 +90,49 @@ title: Customer Sidebar / Magento 2 / Extensions / MageKey GitHub
             <p style="margin-bottom: 5px;">
             Customer Sidebar is an extension intended for shop owners that will help you improve customer  navigation menu.
             The extension replaces a standard customer navigation menu with a new improved Customer Sidebar.
-            Customer Sidebar it’s a left sidebar that contains the logo block on the top, main menu block implemented with icons and submenu block. 
+            Customer Sidebar it’s a left sidebar that contains the logo block on the top, main menu block implemented with icons and submenu block.
             Customer Sidebar extension allows administrator to manage links and icons. You can simple add new custom link or default magento link.
             </p>
 
             <br/>
-            
+
             <p>Customer Sidebar introduces its sections under <strong>Content > Customer Sidebar</strong> menu. The extension comes with 2 sections:</p>
             <ul>
                 <li><strong>Navigation</strong> - allows administrator to manage navigation links</li>
                 <li><strong>Configuration</strong> - allows administrator to customize Customer Sidebar</li>
             </ul>
-            
+
             <br/>
-            
+
             <p class="text-center">
-                <img style="max-height: 700px" src="http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide1.png" />
+                <img style="max-height: 700px" src="{{ site.data.config.mediaBaseUrl }}m2/customer-sidebar/slide1.png" />
             </p>
-            
+
             <div class="pagebreak"></div>
-            
+
             <a name="navigation"></a>
             <h2>Navigation</h2>
-            
+
             <br/>
-            
+
             <p>To manage Customer Sidebar links navigate to <strong>Content > Customer Sidebar > Navigation</strong> section.</p>
 
             <br/>
 
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide9.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/customer-sidebar/slide9.png" />
             </p>
-            
+
             <p>To create a Link click <strong>Add Item</strong> button.</p>
 
             <p>The New Item screen is represented with two settings blocks: Item Details and Icon.</p>
-            
+
             <h3><i>Item Details</i></h3>
-            
+
             <br/>
-            
+
             <p>This screen allows to store general sidebar item details. The following settings are available:</p>
-            
+
             <ul>
                 <li><strong>Title</strong> - defines the name of the sidebar item.</li>
                 <li><strong>Parent Item</strong> - defines the parent item of the sidebar item.</li>
@@ -140,60 +140,60 @@ title: Customer Sidebar / Magento 2 / Extensions / MageKey GitHub
                 <li><strong>Sort Order</strong> - defines the sidebar item order.</li>
                 <li><strong>Visible</strong> - enable/disable sidebar item.</li>
             </ul>
-            
+
             <br>
-            
+
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide10.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/customer-sidebar/slide10.png" />
             </p>
-            
+
             <div class="pagebreak"></div>
-            
+
             <h3><i>Icon</i></h3>
-            
+
             <br/>
-            
+
             <p>This screen allows to setup sidebar icon. This setting available only for main items without "parents".</p>
             <p>The following settings are available:</p>
-            
+
             <ul>
                 <li><strong>Font-Awesome Icon</strong> - defines the sidebar icon.</li>
             </ul>
-            
+
             <br/>
-            
+
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide11.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/customer-sidebar/slide11.png" />
             </p>
-            
+
             <div class="pagebreak"></div>
-            
+
             <a name="navigation"></a>
             <h2>Configuration</h2>
-            
+
             <br/>
-            
+
             <p>To set up the Customer Sidebar extension navigate to <strong>Content > Customer Sidebar > Configuration</strong> section.</p>
-            
+
             <p>The Configuration screen is represented with four settings blocks: Sidebar Navigation, Logo Block, Sub Menu and Links.</p>
-            
+
             <br/>
-            
+
             <p class="text-center">
-                <img src="http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide2.png" />
+                <img src="{{ site.data.config.mediaBaseUrl }}m2/customer-sidebar/slide2.png" />
             </p>
-            
+
             <h3><i>Sidebar Navigation</i></h3>
-            
+
             <ul>
                 <li><strong>Enable Customer Sidebar</strong> - enable/disable Customer Sidebar extension.</li>
                 <li><strong>Design</strong> - allows to customize main sidebar container.</li>
             </ul>
-            
+
             <p class="text-center">
-                <img style="width:800px" src="http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide3.png" />
+                <img style="width:800px" src="{{ site.data.config.mediaBaseUrl }}m2/customer-sidebar/slide3.png" />
             </p>
-            
+
             <h3><i>Logo Block</i></h3>
 
             <ul>
@@ -202,24 +202,24 @@ title: Customer Sidebar / Magento 2 / Extensions / MageKey GitHub
                 <li><strong>Custom Logo Image</strong> - allows to upload custom image for logo block.</li>
                 <li><strong>Design</strong> - allows to customize logo block.</li>
             </ul>
-            
+
             <p class="text-center">
-                <img style="width:900px" src="http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide4.png" />
+                <img style="width:900px" src="{{ site.data.config.mediaBaseUrl }}m2/customer-sidebar/slide4.png" />
             </p>
-            
+
             <div class="pagebreak"></div>
-            
+
             <h3><i>Sub Menu</i></h3>
 
             <ul>
                 <li><strong>Sub Menu Container</strong> - allows to customize sidebar sub menu container.</li>
                 <li><strong>Title</strong> - allows to customize sidebar title.</li>
             </ul>
-            
+
             <p class="text-center">
-                <img style="width:900px" src="http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide5.png" />
+                <img style="width:900px" src="{{ site.data.config.mediaBaseUrl }}m2/customer-sidebar/slide5.png" />
             </p>
-            
+
             <h3><i>Links</i></h3>
 
             <ul>
@@ -245,13 +245,13 @@ title: Customer Sidebar / Magento 2 / Extensions / MageKey GitHub
                     </ul>
                 </li>
             </ul>
-            
+
             <p class="text-center">
-                <img style="width:900px" src="http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide6.png" />
+                <img style="width:900px" src="{{ site.data.config.mediaBaseUrl }}m2/customer-sidebar/slide6.png" />
             </p>
-            
+
             <p class="text-center">
-                <img style="width:900px" src="http://cdn.magekey.com/marketplace/extensions/m2/customer-sidebar/slide7.png" />
+                <img style="width:900px" src="{{ site.data.config.mediaBaseUrl }}m2/customer-sidebar/slide7.png" />
             </p>
         </div>
     </div>
