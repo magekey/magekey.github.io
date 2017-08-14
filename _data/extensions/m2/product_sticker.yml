@@ -1,0 +1,22 @@
+platform: m2
+code: MageKey_ProductSticker
+title: Product Sticker
+thumbnail: m2/product-sticker/thumbnail.png
+short_desc: The Product Sticker extension adds promotion stickers to products.
+url: /extensions/m2/product-sticker.html
+marketing_url:
+slides:
+  - url: m2/product-sticker/thumbnail.png
+  - url: m2/product-sticker/slide1.png
+  - url: m2/product-sticker/slide2.png
+  - url: m2/product-sticker/slide3.png
+  - url: m2/product-sticker/slide4.png
+  - url: m2/product-sticker/slide10.png
+  - url: m2/product-sticker/slide11.png
+  - url: m2/product-sticker/slide12.png
+  - url: m2/product-sticker/slide13.png
+  - url: m2/product-sticker/slide14.png
+  - url: m2/product-sticker/slide15.png
+  - url: m2/product-sticker/slide16.png
+  - url: m2/product-sticker/slide17.png
+  - url: m2/product-sticker/slide18.png
