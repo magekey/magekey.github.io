@@ -1,0 +1,12 @@
+disabled: false
+platform: m2
+code: MageKey_AdcPopup
+title: Added to Cart Popup
+thumbnail: m2/adc-popup/thumbnail.png
+short_desc: Added to Cart Popup extension open a popup window when product was added to the cart.
+url: /extensions/m2/adc-popup.html
+marketing_url:
+slides:
+  - url: m2/adc-popup/thumbnail.png
+  - url: m2/adc-popup/slide1.png
+  - url: m2/adc-popup/slide2.png
