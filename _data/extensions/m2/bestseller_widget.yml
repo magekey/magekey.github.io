@@ -1,0 +1,12 @@
+disabled: false
+platform: m2
+code: MageKey_BestsellerWidget
+title: Bestseller Widget
+thumbnail: m2/bestseller-widget/thumbnail.png
+short_desc: Bestseller Widget extension adds bestseller widgets to frontend.
+url: /extensions/m2/bestseller-widget.html
+marketing_url:
+slides:
+  - url: m2/bestseller-widget/thumbnail.png
+  - url: m2/bestseller-widget/slide1.png
+  - url: m2/bestseller-widget/slide2.png
