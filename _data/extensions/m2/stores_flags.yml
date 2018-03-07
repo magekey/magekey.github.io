@@ -1,0 +1,13 @@
+disabled: false
+platform: m2
+code: MageKey_StoresFlags
+title: Stores Flags
+thumbnail: m2/stores-flags/thumbnail.png
+short_desc: Stores Flags extension adds country flags to Store View.
+url: /extensions/m2/stores-flags.html
+marketing_url:
+slides:
+  - url: m2/stores-flags/thumbnail.png
+  - url: m2/stores-flags/slide1.png
+  - url: m2/stores-flags/slide2.png
+  - url: m2/stores-flags/slide3.png
