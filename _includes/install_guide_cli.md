@@ -10,7 +10,7 @@
         </li>
         <li>
             <p>Enable {{ item.title }} extension:</p>
-            <code>php bin/magento module:enable {{ item.code }} --clear-static-content</code>
+            <code>php bin/magento module:enable {{ item.code }} -c</code>
         </li>
         <li>
             <p>Upgrade magento system to apply {{ item.title }} extension:</p>

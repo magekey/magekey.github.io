@@ -6,6 +6,9 @@ img[src]:after { content: none !important; }
 body{
   -webkit-print-color-adjust: exact;
 }
+code{
+  line-height: 2rem;
+}
 .pagebreak {
   page-break-before: always;
   page-break-inside: avoid;
