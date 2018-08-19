@@ -1,0 +1,16 @@
+disabled: false
+platform: m2
+code: MageKey_Navigation
+title: Navigation
+thumbnail: m2/navigation/thumbnail.png
+short_desc: Navigation extension is a simple extension to help shop owners improve navigation menu.
+url: /extensions/m2/navigation.html
+marketing_url:
+slides:
+  - url: m2/navigation/thumbnail.png
+  - url: m2/navigation/slide1.png
+  - url: m2/navigation/front2.png
+  - url: m2/navigation/slide2.png
+  - url: m2/navigation/slide4.png
+  - url: m2/navigation/slide5.png
+  - url: m2/navigation/slide7.png
