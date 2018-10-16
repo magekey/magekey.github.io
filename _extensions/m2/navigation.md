@@ -82,11 +82,12 @@ title: Navigation / Magento 2 / Extensions / MageKey GitHub
                 <ul class="toc">
                     <li><a href="#toc-overview" class="toc-left">Overview</a><a href="#toc-overview" class="toc-right">3</a></li>
                     <li><a href="#navigation" class="toc-left">Manage Navigation</a><a href="#navigation" class="toc-right">4</a></li>
-                    <li><a href="#items" class="toc-left">Manage Items</a><a href="#items" class="toc-right">5</a></li>
-                    <li><a href="#generate" class="toc-left">Generate Items</a><a href="#generate" class="toc-right">6</a></li>
-                    <li><a href="#update_item" class="toc-left">Update Item</a><a href="#update_item" class="toc-right">7</a></li>
-                    <li><a href="#topmenu" class="toc-left">Setup top menu navigation</a><a href="#topmenu" class="toc-right">10</a></li>
-                    <li><a href="#widget" class="toc-left">Create navigation widget</a><a href="#widget" class="toc-right">11</a></li>
+                    <li><a href="#topmenu" class="toc-left">Assign to Top Menu</a><a href="#topmenu" class="toc-right">5</a></li>
+                    <li><a href="#items" class="toc-left">Manage Items</a><a href="#items" class="toc-right">6</a></li>
+                    <li><a href="#generate" class="toc-left">Generate Items</a><a href="#generate" class="toc-right">7</a></li>
+                    <li><a href="#update_item" class="toc-left">Update Item</a><a href="#update_item" class="toc-right">8</a></li>
+                    <li><a href="#topmenu" class="toc-left">Setup top menu navigation</a><a href="#topmenu" class="toc-right">11</a></li>
+                    <li><a href="#widget" class="toc-left">Create navigation widget</a><a href="#widget" class="toc-right">12</a></li>
                 </ul>
             </div>
 
@@ -143,6 +144,22 @@ title: Navigation / Magento 2 / Extensions / MageKey GitHub
 
             <br/>
             <p>Click <strong>Create</strong> button to create a new navigation and move to manage items section.</p>
+
+            <br/>
+            <div class="pagebreak"></div>
+
+            <a name="topmenu"></a>
+            <h2>Assign to Top Menu</h2>
+
+            <br/>
+
+            <p>This section allows us to assign a current navigation to the top menu.</p>
+            <br/>
+            <br/>
+
+            <p class="text-center">
+                <img style="max-height: 500px" src="{{ site.data.config.mediaBaseUrl }}m2/navigation/slide15.png" />
+            </p>
 
             <div class="pagebreak"></div>
 
